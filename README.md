@@ -1,5 +1,9 @@
 # QR Code Generator — Exercise
 
+## Image
+<img width="1179" height="993" alt="aa" src="https://github.com/user-attachments/assets/fd23c0f9-dafe-4b4f-b961-cb577df3e8e7" />
+
+
 ## How to Use
 
 1. Read `PROMPT.md`
