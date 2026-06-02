@@ -1,4 +1,5 @@
 # ChatGPT Task Scheduler — Exercise
+<img width="1794" height="1546" alt="www" src="https://github.com/user-attachments/assets/f4e3d406-61d6-4ca2-9c9b-0dfc5dac48f5" />
 
 ## How to Use
 
